@@ -13,7 +13,7 @@
 <p>
     <h3> Диграмма классов </h3>
     <p align="center">
-        <img src="images/diagram.png">
+        <img src="images/diagram2.png">
     </p>
 </p>
 <p>
