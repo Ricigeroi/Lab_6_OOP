@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Taxi_Depot/1.0.0": {
+        "runtime": {
+          "Taxi_Depot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taxi_Depot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
