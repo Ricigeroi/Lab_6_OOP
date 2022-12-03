@@ -15,7 +15,7 @@
     <p align="center">
         <img src="images/diagram2.png">
     </p>
-    Сравнить эту диаграмму с предыдущей (5th Lab) можно перейдя по <a href="https://github.com/Ricigeroi/Lab_5_OOP/blob/main/images/diagram.jpg"> ссылке </a>
+    Сравнить эту диаграмму с предыдущей (5th Lab) можно перейдя по <a href="https://github.com/Ricigeroi/Lab_5_OOP/blob/main/images/diagram.jpg" target="_blank"> ссылке </a>
 </p>
 <p>
     <h3> Архитектура </h3>
